@@ -1,4 +1,4 @@
 exports.sayHello = function () {
-    // test
+    // testfff
     return "hello cocos!";
 }
